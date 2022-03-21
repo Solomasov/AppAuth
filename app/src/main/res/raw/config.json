@@ -1,3 +1,6 @@
 {
-  "clientID": ""
+  "clientID": "528733418246-a32ee3kuie1r72kjmlijv7vuneud64lc.apps.googleusercontent.com",
+  "redirectUri": "http://localhost",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
 }

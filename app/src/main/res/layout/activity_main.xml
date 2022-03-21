@@ -33,7 +33,7 @@
             android:layout_marginTop="10dp"
             android:text="authenticate"
             android:backgroundTint="@color/teal_700"
-            android:onClick="@{() -> model.startLogin()}"
+            android:onClick="@{() -> model.startLogin(context)}"
             app:layout_constraintTop_toBottomOf="@id/logo"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"/>
